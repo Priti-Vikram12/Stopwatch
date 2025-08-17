@@ -1,5 +1,5 @@
 # <p align = "center"> Stop Watch </p>
-
+Project Link - https://priti-vikram12.github.io/Stopwatch/
 <h2>Introduction📌</h2>
 
 It is the basic Stopwatch Page Project. The goal of this project is to showcase web development skills, including HTML, CSS and JavaScript.
