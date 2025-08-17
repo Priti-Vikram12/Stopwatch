@@ -1,6 +1,6 @@
 # <p align = "center"> Stop Watch </p>
 
-h2><Introduction📌</h2>
+<h2>Introduction📌</h2>
 
 It is the basic Stopwatch Page Project. The goal of this project is to showcase web development skills, including HTML, CSS and JavaScript.
 
@@ -14,7 +14,8 @@ It is the basic Stopwatch Page Project. The goal of this project is to showcase 
 <p><b>HTML: </b>For structuring the web page elements.<br>
 <b>CSS:</b> For styling the stopwatch's appearance and layout.<br>
 <b>JavaScript:</b>For implementing the core timer logic and interactivity.</p>
-<h2 align = "center"> Usage:</h2>
+
+<h2> Usage:</h2>
 <p><b>Starting the Timer:</b> Instructions on how to begin timing (e.g., "Click the 'Start' button").<br>
 <b>Stopping the Timer: </b>Instructions on how to pause the timer (e.g., "Click the 'Stop' button").<br>
 <b>Resetting the Timer:</b> Instructions on how to clear the timer (e.g., "Click the 'Reset</p>
